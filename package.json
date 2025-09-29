@@ -1,5 +1,5 @@
 {
-  "name": "DemoRnWin",
+  "name": "@effect-native/demo-rn-win",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -47,5 +47,6 @@
       "namespace": "DemoRnWin",
       "template": "cpp-app"
     }
-  }
+  },
+  "packageManager": "pnpm@10.17.1"
 }
